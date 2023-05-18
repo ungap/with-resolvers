@@ -1,0 +1,24 @@
+{
+  "name": "@ungap/with-resolvers",
+  "version": "0.0.0",
+  "description": "Promise.witResolvers() polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Promise",
+    "witResolvers",
+    "polyfill"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungap/with-resolvers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ungap/with-resolvers/issues"
+  },
+  "homepage": "https://github.com/ungap/with-resolvers#readme"
+}
