@@ -1,6 +1,6 @@
 # @ungap/with-resolvers
 
-A [Promise.witResolvers()](https://github.com/tc39/proposal-promise-with-resolvers) polyfill.
+A [Promise.withResolvers()](https://github.com/tc39/proposal-promise-with-resolvers) polyfill.
 
 ```js
 import '@ungap/with-resolvers';
